@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MK</h1>
-<h3 align="center">A IT student, Christian, Baybayin advocate, and future web developer from the Philippines</h3>
+<h3 align="center">An IT student, Christian, Baybayin advocate, and future web developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /> </p>
 
@@ -8,24 +8,15 @@
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
 <br>
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br>
-
-### 📕 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ### Languages and Tools:
 
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,7 +28,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
 <br>
 <br>
 
@@ -52,6 +42,41 @@
 
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Connect with me:
+
+[<img align="left" alt="mksalada.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 <br>
 <br>
 
