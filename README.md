@@ -17,6 +17,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
