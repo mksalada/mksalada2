@@ -37,7 +37,11 @@
 
 <br />
 
-<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.mksalada.vercel.app/api?username=mksalada&count_private=true&show_icons=true&theme=graywhite&hide_border=true" />
+<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
+
+<br />
+
+<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksalada&layout=compact" />
 
 <br />
 <br />
