@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm MK</h1>
+<h1 align="center">Hi 👋, I'm MK a.k.a. Tina</h1>
 <h3 align="center">An IT student, Christian, Baybayin advocate, and future web developer from the Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /></p>
 
-![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
+[![MK Salada Website](https://img.shields.io/badge/website-www.mksalada.tk-informational)](github)
+[![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)](github)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)](twitter)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](instagram)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
@@ -43,17 +46,12 @@
 
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
-
-<br>
 <br>
 <br>
 
 ### Connect with me:
 
 [<img align="left" alt="mksalada.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
 
@@ -68,3 +66,4 @@
 [twitter]: https://twitter.com/tinsalada
 [instagram]: https://instagram.com/tintinsalada
 [linkedin]: https://linkedin.com/in/saladamk
+[github]: https://github.com/mksalada
