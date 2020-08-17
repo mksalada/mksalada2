@@ -3,7 +3,7 @@
 ## I'm a IT student, Christian, Baybayin advocate, and future web developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn advance HTML, CSS, JavaScript and PHP
+- 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw.
 
 ### Connect with me:
