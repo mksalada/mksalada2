@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm MK a.k.a. Tina</h1>
 <h3 align="center">An IT student, Christian, Baybayin advocate, and future web developer from the Philippines</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /></p>
-
+![MK Salada Website](https://komarev.com/ghpvc/?username=mksalada)
 ![MK Salada Website](https://img.shields.io/badge/website-www.mksalada.tk-informational)
 ![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything about JavaScript and PHP 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
 
@@ -35,11 +34,11 @@
 <br>
 <br>
 
-##### *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+##### *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub*
 
-<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app
+<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.mksalada.vercel.app
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
-<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app
+<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.mksalada.vercel.app
 /api/top-langs/?username=mksalada&layout=compact" />
 
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
