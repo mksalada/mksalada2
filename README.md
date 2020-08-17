@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
-<br>
 
 ### Languages and Tools:
 
@@ -16,7 +15,6 @@
 <img align="left" alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
 <img align="left" alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img align="left" alt="Apache"  src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-<br>
 <br>
 <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,9 +31,7 @@
 <br>
 <br>
 
----
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+##### *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 <img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
