@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
-
 <br>
 
 ### Connect with me:
@@ -20,9 +19,6 @@
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
-- [Interesanteng Kasaysayan](https://medium.com/@mksalada/interesanteng-kasaysayan-ec61f59a898d?source=rss-a86fb73b5ac8------2)
-- [5 Must-See Websites To Learn Baybayin Script](https://medium.com/@mksalada/5-must-see-websites-to-learn-baybayin-script-bb890b8e89e3?source=rss-a86fb73b5ac8------2)
-- [Amen. Thanks for telling your story Joel.](https://medium.com/@mksalada/amen-thanks-for-telling-your-story-joel-52538f4146db?source=rss-a86fb73b5ac8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -48,9 +44,9 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.mksalada.vercel.app
+<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
-<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.mksalada.vercel.app
+<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app
 /api/top-langs/?username=mksalada&layout=compact" />
 
 <br>
