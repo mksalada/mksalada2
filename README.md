@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MK a.k.a. Tina</h1>
 <h3 align="center">An IT student and future web developer from the Philippines</h3>
 
-![MK Salada Website](https://komarev.com/ghpvc/?username=mksalada)
-![MK Salada Website](https://img.shields.io/badge/website-www.mksalada.tk-informational)
+![MK Salada Profile](https://komarev.com/ghpvc/?username=mksalada)
+![MK Salada Website](https://img.shields.io/badge/website-mksalada-informational)
 ![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
