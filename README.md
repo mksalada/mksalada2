@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /> </p>
 
+![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
@@ -44,12 +47,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Connect with me:
 
@@ -64,10 +61,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
 <!-- BLOG-POST-LIST:END -->
-
-<br>
-<br>
-<br>
 
 <!-- --- -->
 
