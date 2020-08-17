@@ -1,6 +1,7 @@
-### Hi there, I'm Tina - a.k.a. MK 👋
+<h1 align="center">Hi 👋, I'm MK</h1>
+<h3 align="center">A IT student, Christian, Baybayin advocate, and future web developer from the Philippines</h3>
 
-## I'm a IT student, Christian, Baybayin advocate, and future web developer!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /> </p>
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
@@ -9,10 +10,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+<a href="https://codepen.io/mksalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mksalada" height="30" width="30" /></a>
+<a href="https://dev.to/mksalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mksalada" height="30" width="30" /></a>
+<a href="https://twitter.com/tinsalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tinsalada" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/saladamk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saladamk" height="30" width="30" /></a>
+<a href="https://fb.com/mksalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mksalada" height="30" width="30" /></a>
+<a href="https://instagram.com/tintinsalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tintinsalada" height="30" width="30" /></a>
+<a href="https://www.behance.net/mksalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="mksalada" height="30" width="30" /></a>
+<a href="https://medium.com/@mksalada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mksalada" height="30" width="30" /></a>
+</p>
 
 <br>
 
@@ -48,6 +55,8 @@
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
 <img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app
 /api/top-langs/?username=mksalada&layout=compact" />
+
+<!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
 <br>
 <br>
