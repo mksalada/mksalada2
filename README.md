@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MK a.k.a. Tina</h1>
-<h3 align="center">An IT student, Christian, Baybayin advocate, and future web developer from the Philippines</h3>
+<h3 align="center">An IT student and future web developer from the Philippines</h3>
 
 ![MK Salada Website](https://komarev.com/ghpvc/?username=mksalada)
 ![MK Salada Website](https://img.shields.io/badge/website-www.mksalada.tk-informational)
@@ -40,7 +40,6 @@
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
 <img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.mksalada.vercel.app
 /api/top-langs/?username=mksalada&layout=compact" />
-
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
 <br>
@@ -63,8 +62,7 @@
 - [Amen. Thanks for telling your story Joel.](https://medium.com/@mksalada/amen-thanks-for-telling-your-story-joel-52538f4146db?source=rss-a86fb73b5ac8------2)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- --- -->
-
+<!-- definitions -->
 [website]: https://mksalada.tk/
 [twitter]: https://twitter.com/tinsalada
 [instagram]: https://instagram.com/tintinsalada
