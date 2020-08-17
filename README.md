@@ -3,11 +3,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mksalada" alt="mksalada" /></p>
 
-[![MK Salada Website](https://img.shields.io/badge/website-www.mksalada.tk-informational)](github)
-[![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)](github)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)](twitter)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](instagram)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
+![MK Salada Website](https://img.shields.io/badge/website-www.mksalada.tk-informational)
+![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
@@ -52,6 +50,9 @@
 ### Connect with me:
 
 [<img align="left" alt="mksalada.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
 
