@@ -6,21 +6,23 @@
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
 - ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
 
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -35,22 +37,23 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-<br />
-
-<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
-
-<br />
-<br />
-<br />
-
-<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksalada&layout=compact" />
-
-<br />
-<br />
+<br>
+<br>
+<br>
 
 ---
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+
+<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.mksalada.vercel.app
+/api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
+<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.mksalada.vercel.app
+/api/top-langs/?username=mksalada&layout=compact" />
+
+<br>
+<br>
+
+<!-- --- -->
 
 [website]: https://mksalada.tk/
 [twitter]: https://twitter.com/tinsalada
