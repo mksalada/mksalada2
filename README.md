@@ -36,9 +36,9 @@
 
 ##### *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub*
 
-<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.mksalada.vercel.app
+<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
-<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.mksalada.vercel.app
+<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app
 /api/top-langs/?username=mksalada&layout=compact" />
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
