@@ -41,6 +41,8 @@
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
 <br>
+
+<!--
 <br>
 <br>
 <br>
@@ -57,6 +59,7 @@
 [<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="MK Salada | Email" width="22px" style="color: #D14836;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+-->
 
 <br>
 
