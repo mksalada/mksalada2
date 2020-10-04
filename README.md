@@ -36,9 +36,9 @@
 
 ##### *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub*
 
-<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.vercel.app
+<img align="left" alt="MK Salada's Github Stats" src="https://github-readme-stats.mksalada.vercel.app
 /api?username=mksalada&count_private=true&show_icons=true&theme=solarized-light&hide_border=false" />
-<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.vercel.app
+<img align="left" alt="MK Salada's Github Top Languages Card" src="https://github-readme-stats.mksalada.vercel.app
 /api/top-langs/?username=mksalada&layout=compact" />
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
@@ -51,6 +51,7 @@
 [<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MK Salada | Email" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/envelope.svg" />][email]
 
 <br>
 
@@ -68,3 +69,4 @@
 [instagram]: https://instagram.com/tintinsalada
 [linkedin]: https://linkedin.com/in/saladamk
 [github]: https://github.com/mksalada
+[email]: mailto:contact@tinsalada.cf
