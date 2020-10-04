@@ -6,9 +6,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
-- 🌱 I’m currently learning everything about JavaScript and PHP 🤣
+- 🌱 I’m currently learning everything about JavaScript and PHP, and some Bootstrap 🤣
 - 🥅 2020 Goals: Learn HTML, CSS, JavaScript and PHP from beginner to advance
-- ⚡ Fun fact: I love to wrote poems, listen to music, eat, and draw
+- ⚡ Fun fact: I love to eat, sleep, read stuffs, listen to music, draw, watch informative videos, learn and do new stuffs
 
 ### Languages and Tools:
 
@@ -47,7 +47,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mksalada.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tinsalada.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -63,7 +63,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- definitions -->
-[website]: https://mksalada.tk/
+[website]: https://tinsalada.cf/
 [twitter]: https://twitter.com/tinsalada
 [instagram]: https://instagram.com/tintinsalada
 [linkedin]: https://linkedin.com/in/saladamk
