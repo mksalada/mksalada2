@@ -8,7 +8,6 @@
 
 - 🌱 **Currently Learning:** JavaScript and PHP, and some Bootstrap 🤣
 - 🥅 **2020 Goals:** Learn HTML, CSS, JavaScript and PHP from beginner to advance
-- ⚡ **Fun Facts:** I love to eat, sleep, read stuffs, listen to music, draw, watch informative videos, learn and do new stuffs
 
 ### Languages and Tools:
 
@@ -61,7 +60,7 @@
 
 <br>
 
-### 📕 Latest Blog posts
+<!-- ### 📕 Latest Blog posts -->
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
 
