@@ -42,8 +42,6 @@
 <!-- github-readme-stats.mksalada.vercel.app or github-readme-stats.vercel.app-->
 
 <br>
-
-<!--
 <br>
 <br>
 <br>
@@ -60,17 +58,12 @@
 [<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="MK Salada | Email" width="22px" style="color: #D14836;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
--->
 
 <br>
 
-<!-- ### 📕 Latest Blog posts -->
-<!-- /BLOG/-POST/-LIST/:START -/->
-- [CSS Cardio](https://dev.to/mksalada/css-cardio-10of)
-- [Interesanteng Kasaysayan](https://medium.com/@mksalada/interesanteng-kasaysayan-ec61f59a898d?source=rss-a86fb73b5ac8------2)
-- [5 Must-See Websites To Learn Baybayin Script](https://medium.com/@mksalada/5-must-see-websites-to-learn-baybayin-script-bb890b8e89e3?source=rss-a86fb73b5ac8------2)
-- [Amen. Thanks for telling your story Joel.](https://medium.com/@mksalada/amen-thanks-for-telling-your-story-joel-52538f4146db?source=rss-a86fb73b5ac8------2)
-</!-/- /BLOG/-POST/-LIST/:END -->
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- definitions -->
 [website]: https://tinsalada.cf/
