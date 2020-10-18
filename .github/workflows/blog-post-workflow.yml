@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "HASHNODE"
           commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://salada.hashnode.dev/rss.xml,https://medium.com/feed/@mksalada"
+          feed_list: "https://blog.mksalada.tk/rss.xml,https://medium.com/feed/@mksalada"
