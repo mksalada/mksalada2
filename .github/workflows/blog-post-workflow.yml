@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest Hashnode Blog Post
 on:
   schedule:
     # Runs every hour
@@ -7,13 +7,12 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest Hashnode blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # feed_list: "https://dev.to/feed/@mksalada,https://medium.com/feed/@mksalada" [old]
           comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Blog data"
+          commit_message: "Updated readme with the latest Hashnode Blog data"
           feed_list: "https://salada.hashnode.dev/rss.xml,https://medium.com/feed/@mksalada"
