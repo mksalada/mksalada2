@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
-- 🌱 **Currently Learning:** JavaScript and PHP, and some Bootstrap 🤣
+- 🌱 **Currently Learning:** JavaScript and PHP, and some Bootstrap and wireframing 🤣
 - 🥅 **2020 Goals:** Learn HTML, CSS, JavaScript and PHP from beginner to advance
 
 ### Languages and Tools:
