@@ -66,7 +66,6 @@
 - [Ang Pagkilala Sa Baybayin-Tagalog](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagalog-f016cc114aa6?source=rss-a86fb73b5ac8------2)
 - [Interesanteng Kasaysayan](https://medium.com/@mksalada/interesanteng-kasaysayan-ec61f59a898d?source=rss-a86fb73b5ac8------2)
 - [5 Must-See Websites To Learn Baybayin Script](https://medium.com/@mksalada/5-must-see-websites-to-learn-baybayin-script-bb890b8e89e3?source=rss-a86fb73b5ac8------2)
-- [Amen. Thanks for telling your story Joel.](https://medium.com/@mksalada/amen-thanks-for-telling-your-story-joel-52538f4146db?source=rss-a86fb73b5ac8------2)
 <!-- HASHNODE:END -->
 
 <!-- definitions -->
