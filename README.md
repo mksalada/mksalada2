@@ -2,7 +2,7 @@
 <h3 align="center">An IT student and aspiring web developer from the Philippines</h3>
 
 ![MK Salada Profile](https://komarev.com/ghpvc/?username=mksalada)
-![Tin Salada Website](https://img.shields.io/badge/website-tinsalada-informational)
+![MK Salada Website](https://img.shields.io/badge/website-mksalada-informational)
 ![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
