@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm MK a.k.a. Tina</h1>
-<h3 align="center">An IT student and future web developer from the Philippines</h3>
+<h1 align="center">Hi 👋, I'm Maria Kristina Salada</h1>
+<h3 align="center">An IT student and aspiring web developer from the Philippines</h3>
 
 ![MK Salada Profile](https://komarev.com/ghpvc/?username=mksalada)
 ![Tin Salada Website](https://img.shields.io/badge/website-tinsalada-informational)
 ![GitHub followers](https://img.shields.io/github/followers/mksalada?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tinsalada?style=social)
 
-- 🌱 **Currently Learning:** JavaScript and PHP, and some Bootstrap and wireframing 🤣
-- 🥅 **2020 Goals:** Learn HTML, CSS, JavaScript and PHP from beginner to advance
+- 🌱 **Currently Learning:** JavaScript and PHP, and some wireframing 🤣
+- 🥅 **2021 Goals:** Learn HTML, CSS, JavaScript and PHP from beginner to advance
 
 ### Languages and Tools:
 
@@ -52,7 +52,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tinsalada.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mksalada.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MK Salada | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="MK Salada | LinkedIn" width="22px" style="color: #0077B5;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -69,9 +69,9 @@
 <!-- HASHNODE:END -->
 
 <!-- definitions -->
-[website]: https://tinsalada.cf/
+[website]: https://mksalada.tk/
 [twitter]: https://twitter.com/tinsalada
 [instagram]: https://instagram.com/tintinsalada
 [linkedin]: https://linkedin.com/in/saladamk
 [github]: https://github.com/mksalada
-[email]: mailto:contact@tinsalada.cf
+[email]: mailto:salada4299@gmail.com
