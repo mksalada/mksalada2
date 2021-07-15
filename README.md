@@ -58,15 +58,6 @@
 [<img align="left" alt="MK Salada | Instagram" width="22px" style="color: #E4405F;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="MK Salada | Email" width="22px" style="color: #D14836;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-<br>
-
-### 📕 Latest Blog posts
-<!-- HASHNODE:START -->
-- [Ang Pagkilala Sa Baybayin-Tagbanwa](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagbanwa-6cff492dcfc6?source=rss-a86fb73b5ac8------2)
-- [Ang Pagkilala Sa Baybayin-Tagalog](https://medium.com/@mksalada/ang-pagkilala-sa-baybayin-tagalog-f016cc114aa6?source=rss-a86fb73b5ac8------2)
-- [Interesanteng Kasaysayan](https://medium.com/@mksalada/interesanteng-kasaysayan-ec61f59a898d?source=rss-a86fb73b5ac8------2)
-- [5 Must-See Websites To Learn Baybayin Script](https://medium.com/@mksalada/5-must-see-websites-to-learn-baybayin-script-bb890b8e89e3?source=rss-a86fb73b5ac8------2)
-<!-- HASHNODE:END -->
 
 <!-- definitions -->
 [website]: https://mksalada.tk/
